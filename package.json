@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "2.1.2",
     "expo": "~53.0.20",
     "expo-status-bar": "~2.2.3",
+    "phosphor-react-native": "^3.0.0",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "react-native-navigation-bar-color": "^2.0.2",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-toast-message": "^2.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
