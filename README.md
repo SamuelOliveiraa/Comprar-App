@@ -1,5 +1,7 @@
 ## Comprar App
 
+![Capa do Projeto](/src/assets/og-image.png)
+
 ComprarApp é um aplicativo de lista de compras desenvolvido em React Native utilizando Expo. Ele permite adicionar, marcar como comprado e remover itens da lista de compras, proporcionando uma experiência simples e eficiente para organização das suas compras.
 
 ## Funcionalidades
